@@ -6,7 +6,7 @@ Web Developer & Graphic Design
 I've been studied Communication but I'm currently very into in web developer and graphic design.
 
 * 🌍  I'm based in Peru.
-* 🧠  I'm learning CSS & Javascript.
+* 🧠  I'm learning HTML, CSS & Javascript.
 * 🤝  I'm open to collaborating on interesting projects and keep learning.
 
 ## **Programs:** 
